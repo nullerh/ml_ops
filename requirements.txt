@@ -29,7 +29,6 @@ markdown-it-py==3.0.0
 MarkupSafe==3.0.2
 matplotlib==3.10.0
 mdurl==0.1.2
--e git+https://nullerh@github.com/nullerh/ml_ops.git@5957bee988d5a91987818c568d902cccd12401df#egg=module6
 mpmath==1.3.0
 mypy==1.14.1
 mypy-extensions==1.0.0
